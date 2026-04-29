@@ -51,7 +51,7 @@ start TaskManager.html
 ##  Project Structure
 
 ```
-Task-Manager/
+Task_Manager/
 │── TaskManager.html
 │── TaskManager.css
 │── TaskManager.js
